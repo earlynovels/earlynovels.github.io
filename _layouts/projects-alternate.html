@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<!-- An alternate projects page layout with square boxes in two columns, ordered by date. -->
+
+<h1 class="page-title">{{page.title}}</h1>
+
+<hr/>
+
+<p>Each summer, our student researchers draw on END data and texts to complete their own personal projects. Explore those projects and read about their authors here.</p>
+
+<br><br>
+
+{% assign projects_list = site.projects %}
+
+{% for project in projects_list %}
+
+<div style="float:left">{% include projectbox.html %}</div>
+
+{% endfor %}

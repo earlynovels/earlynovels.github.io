@@ -1,0 +1,10 @@
+<b><a href={{site.url}}/people/>Core Team</a></b> &#8226;
+
+{% assign pages_list = site.years %}
+{% for page in pages_list %}
+  {% if page != pages_list.last %}
+    <b><a href={{site.url}}/people/{{page.year}}> {{ page.year }} </a></b> &#8226;
+  {% elsif page == pages_list.last %}
+    <b><a href={{site.url}}/people/{{page.year}}> {{ page.year }} </a></b>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<!-- This layout displays student projects from the _projects folder, showing any projects tagged with display-order: 1 in their YAML front matter first. -->
+
+<h1 class="page-title">{{page.title}}</h1>
+
+<hr/>
+
+<p>Each summer, our student researchers draw on END data and texts to complete their own personal projects.  Explore those projects and read about their authors here.</p>
+
+{% assign projects_list = site.projects %}
+
+<!-- Display projects tagged with display-order: 1 in their YAML front matter. -->
+
+{% for project in projects_list %}
+  {% if project.display-order %}
+    {% if project.display-order == 1 %}
+      {% include projectbox.html %}
+      <br>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<!-- If you want to specify a project or projects that should be displayed after the first group but before the last, you would comment this code back in and tag the relevant projects with display-order: 2 in their YAML front matter. -->
+
+<!-- {% for project in projects_list %}
+  {% if project.display-order %}
+    {% if project.display-order == 2 %}
+      {% include projectbox.html %}
+      <br>
+    {% endif %}
+  {% endif %}
+{% endfor %} -->
+
+<!-- Display projects with no display order specified in their YAML front matter. -->
+
+{% for project in projects_list %}
+  {% unless project.display-order %}
+    {% include projectbox.html %}
+    <br>
+  {% endunless %}
+{% endfor %}

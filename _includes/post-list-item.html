@@ -1,0 +1,17 @@
+{% assign post = include.post %}
+{% assign author = site.data.authors[post.author] %}
+
+<li>
+  <a href="{{ post.url | prepend:site.baseurl }}">
+    <span>{{ post.title }}</span>
+  </a>
+  <br>
+  <small>
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {{ author.name] }} &#8226; {{ post.date | date: include.format }}
+    </time>
+  </small>
+
+  <br>{% include readmore.html %}
+  
+</li>

@@ -1,0 +1,71 @@
+<script>
+
+if (!("ontouchstart" in document.documentElement)) {
+    document.documentElement.className += " no-touch";
+}
+
+</script>
+
+<style>
+
+a:hover {
+        color: white;
+}
+
+.project-box {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.image-holder {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.project-box:hover > .title-box {
+  opacity: 0;
+}
+
+.project-box:hover > .title-text {
+  opacity: 0;
+}
+
+.main-image {
+  overflow: hidden;
+  position: absolute;
+  object-fit: cover;
+  height: 300px;
+  width: 300px;
+}
+
+.title-box {
+  width: 300px;
+  display:inline-block;
+  background: rgba(255, 255, 255, 0.75);
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  left: 0;
+  opacity: 1;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  overflow: hidden;
+}
+
+</style>
+
+<a href='{{ project.url | prepend:site.baseurl }}'>
+  <div class='project-box'>
+    <div class='title-box'>
+      {{project.title}}
+    </div>
+    <div class='image-holder'>
+      <img class='main-image' alt='{{ project.title }}' src='/public/img/{{ project.img }}'>
+    </div>
+  </div>
+</a>

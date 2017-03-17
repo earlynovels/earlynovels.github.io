@@ -1,0 +1,18 @@
+<!-- A modified version of post-list-authorpage.html for author profile pages - doesn't show author's name under post title -->
+
+{% assign post = include.post %}
+{% assign author = site.data.authors[post.author] %}
+
+<li>
+  <a href="{{ post.url | prepend:site.baseurl }}">
+    <span>{{ post.title }}</span>
+    <small>
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: include.format }}
+      </time>
+    </small>
+  </a>
+
+  <br>{% include readmore.html %}
+
+</li>

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% include project.html post=page link_title=false %}
+
+{% assign author = site.data.authors[page.author] %}
+{% if author %}
+{% include author.html %}
+{% endif %}
+
+{% if site.disqus %}
+{% include comments.html post=page %}
+{% endif %}

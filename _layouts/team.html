@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% include teammenu.html %}
+
+<br><br>
+
+<!-- Display page title -->
+
+<h1 class="page-title">{{page.year}} Team</h1>
+
+<hr/>
+
+<!-- Display team bios from relevant year -->
+
+{% for author in site.data.authors %}
+  {% for item in author[1].year %}
+    {% if item == page.year %}
+      {% include teammember.html %}
+      <br>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

@@ -1,0 +1,4 @@
+---
+layout: teamfrontpage
+title: People
+---
