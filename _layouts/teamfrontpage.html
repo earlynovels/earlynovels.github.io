@@ -34,6 +34,19 @@ layout: default
 
 <hr/>
 
+<h2 class="page-title">CLIR Postdoctoral Fellow</h2>
+
+<!-- Display Lindsay's bio -->
+
+{% for author in site.data.authors %}
+  {% if author[0] == "lindsayvantine" %}
+      {% include teammember2.html %}
+      <br>
+  {% endif %}
+{% endfor %}
+
+<hr/>
+
 <!-- Display bios for anyone tagged as core contributors -->
 
 <h2 class="page-title">Core Contributors</h2>

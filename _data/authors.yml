@@ -24,7 +24,7 @@ alicemcgrath:
   position:       Project Manager
   year:           [corecontrib, 2015, 2016]
   avatar:         /public/img/alicemcgrath.jpg
-  bio:            "Alice McGrath is a Ph.D. Candidate in English at the University of Pennsylvania. She is currently completing a dissertation on eighteenth-century British women writers and queer domestic fiction. Her research and teaching interests include genre and form, gender and sexuality, and material texts."
+  bio:            "Alice Tweedy McGrath completed her doctoral work in the English Department of the University of Pennsylvania in August 2016, specializing in eighteenth-century British literature. Her dissertation, <i>Patchwork Fictions: Imagining Intimacy Beyond the Marriage Plot</i>, explores women writers' experiments with form in domestic fiction. She currently holds a Postdoctoral Fellowship for Accessibility at the University of Pennsylvania Libraries. Her research and teaching interests include eighteenth-century literature and culture, women writers, queer studies, questions of genre and form, material text methodologies, and digital humanities."
 
 alisondevine:
   name:           Alison Devine
@@ -66,7 +66,7 @@ bethseltzer:
   position:       Project Manager
   year:           [2015, corecontrib]
   avatar:         /public/img/bethseltzer.jpg
-  bio:            "Beth Seltzer earned her PhD in English from Temple University in June 2015. Her research and teaching interests include detective and popular Victorian fiction, information culture, and the digital humanities."
+  bio:            "Beth Seltzer is the Educational Technology Specialist at Bryn Mawr College, where she works on a range of projects including the Tri-College Digital Scholarship Group and the Blended Learning in the Liberal Arts initiative. She holds a PhD in English literature from Temple University, and previously worked as a post-doctoral fellow at the University of Pennsylvania libraries. Her interests include digital scholarship, Victorian popular fiction, and the intersection of technology and pedagogy in higher education."
 
 briannealphonso:
   name:           Brianne Alphonso
@@ -204,11 +204,11 @@ kirarasato:
 #   # bio:            ""
 
 lindsayvantine:
-  name:           Lindsay van Tine
-  position:       Post-Doctoral Fellow
-  year:           [corecontrib, 2016]
-  avatar:         /public/img/lindsayvantine.jpg
-  # bio:            ""
+  name:           Lindsay Van Tine
+  position:       CLIR Postdoctoral Fellow
+  year:           [2016]
+  avatar:         /public/img/lindsayvantine2.jpg
+  bio:            "Lindsay Van Tine holds a Ph.D. in English & Comparative Literature from Columbia University. She is currently a CLIR Postdoctoral Fellow at the University of Pennsylvania and Swarthmore College, where she researches and teaches at the intersection of Early American Studies, Book History, and the Digital Humanities. She is at work on a first book project titled <i>The Invention of Americana: Claiming Hemispheric History, Territory, and Archive, 1823-1854</i>."
 
 lynnefarrington:
   name:           Lynne Farrington
