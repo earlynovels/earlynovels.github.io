@@ -192,6 +192,12 @@ Note that when dealing with a YAML file like authors.yml, author[0] will return 
 
 To change the site's layout or add new elements, you can add files to /includes and /layouts, or modify existing ones. If you create a new layout, just put its title in the front matter of a page (e.g. "layout: team") to apply it to that page.
 
+# Update gems/dependencies
+
+For Github error message "We found potential security vulnerabilities in your dependencies":
+
+Navigate to the directory where the site is stored and run "bundle update"
+
 
 Documentation by Yumi Dineen Shiroma, 3/11/17
 ydshiroma@gmail.com

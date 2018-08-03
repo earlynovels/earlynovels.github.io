@@ -12,6 +12,13 @@ abbycox:
   avatar:         /public/img/abbycox.jpg
   bio:            "Abby Cox is an English major with a minor in Spanish at Haverford College. She is also passionate about art and art history, and as an END researcher, she is interested in exploring ways that art and literature intersect in eighteenth century works. At Haverford, she works as a peer tutor in the Writing Center, and her extracurricular interests include crossword puzzles, theater, her cat, your cat, and/or any other cat."
 
+alexandraye:
+  name:           Alexandra Ye
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/alexandraye.jpg
+  bio:            "Alexandra Ye is an Honors English major at Swarthmore College with a minor in Chinese. At END, she was particularly drawn to perspectives on book history in media studies."
+
 alexisvaneyken:
   name:           Alexis Van Eyken
   position:       Project Coordinator, Sound Editor
@@ -82,6 +89,13 @@ carolinemcardle:
   avatar:         /public/img/carolinemcardle.jpg
   bio:            "Caroline McArdle is a junior English and Philosophy major at Williams College. This summer, she has particularly enjoyed learning about 18th century travel narratives and evolving notions of fictionality. At Williams, Caroline is a teaching assistant for the philosophy department and an active participant in all things theatre and Shakespeare. She is excited to study literature abroad next year at the University of Oxford."
 
+carolynliu:
+  name:           Carolyn Liu
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/carolynliu.jpg
+  bio:            "Carolyn Liu is a rising junior English major and Consumer Psychology minor at the University of Pennsylvania.  During her work at END, she was most interested in the place of the novel in 18th century consumer culture, particularly through the analysis of advertisements.  She hopes that she can perhaps continue to pursue this area of study some more in the future. During the year, Carolyn can be found either training at the Penn Shotokan Karate Club or participating as half of the design team for the Harrison Anime Club."
+
 catherinepark:
   name:           Catherine Park
   position:       Student Researcher
@@ -116,6 +130,13 @@ dantraister:
   year:           [corecontrib]
   avatar:         /public/img/dantraister.jpg
   bio:            "Dan Traister retired as Curator of Research Services, Annenberg Rare Book and Manuscript Library, University of Pennsylvania. He has written extensively on the history of books and printing and on topics in English and American literature."
+
+emmahetrick:
+  name:           Emma Hetrick
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/emmahetrick.jpg
+  bio:            "Emma Hetrick is a senior English and History double major at the University of Pennsylvania. She used her END project, which focused on analyzing differences between London and Philadelphia editions of 18th and 19th century English novels that could be determined without reading the actual text, as a kick-start to her honors thesis, which will examine the implications and process of the reprinting of British literature in America. When not cataloging this summer you could find her discussing the latest Game of Thrones episode or reminiscing about the most recent musical she had seen."
 
 emmamadarasz:
   name:           Emma Madarasz
@@ -189,6 +210,13 @@ katyfrank:
   avatar:         /public/img/katyfrank.jpg
   bio:            "Katy Frank is an English major concentrating in Gender and Sexuality Studies at Haverford College. Katy's interest in diaries spans the scholarly and personal realms, and as an Student Researcher, she wants to find fiction written in diary or journal-esque formats. Katy works at the Haverford College Women*s Center and is an editor of Margin, Haverford's academic and artistic journal. She lives in environmental haus during the school year."
 
+kelseydesir:
+  name:           Kelsey Desir
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/kelseydesir.jpg
+  bio:            "Kelsey Desir is a rising senior English major and Africana Studies minor at the University of Pennsylvania. As an END student researcher, she examines the presence and depiction of characters of color in 18th century literature. She also spends an exceptional amount of time watching reality television—for social research purposes of course."
+
 kirarasato:
   name:           Kirara Sato
   position:       Student Researcher
@@ -229,6 +257,27 @@ maecarlson:
   position:       Student Researcher
   year:           [2012]
   # avatar:         /public/img/
+  # bio:            ""
+
+marykateguma:
+  name:           Mary Kate Guma
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/marykateguma.jpg
+  bio:            "Mary Kate Guma is a rising junior at Williams College majoring in English and History, and she is particularly interested in the way those two disciplines interact. This summer with END, she grappled with questions about the ethics of rare books libraries, the role of specific volumes in community building, and the part played by marginalia, both historically and literarily. Outside of the project, she is involved with All Campus Entertainment at Williams and works at the local elementary school in Williamstown assisting the librarian."
+
+mayadeutsch:
+  name:           Maya Deutsch
+  position:       Student Researcher
+  year:           [2017]
+  avatar:         /public/img/mayadeutsch.jpg
+  bio:            "Maya Deutsch is a rising junior pursuing an English Literature major and Japanese minor at Swarthmore College, where she also works as a Writing Associate. Since joining END she has developed an interest in digital materiality and remediation, interactive fiction, and any early novel with the word 'devil' in its title. In her free time, she enjoys reading the same sort of uptight literature she is assigned in class, visiting art museums, and hiding her embarrassing fondness for video game soundtracks."
+
+mayelinperez:
+  name:           Mayelin Perez
+  position:       Project Manager
+  year:           [2017]
+  avatar:         /public/img/mayelinperez.jpg
   # bio:            ""
 
 michellemoyes:
