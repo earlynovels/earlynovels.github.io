@@ -1,0 +1,16 @@
+current directory: /Users/ladmin/Documents/GitHub/earlynovels.github.io/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20181015-16997-6dbg74.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ladmin/Documents/GitHub/earlynovels.github.io/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/ladmin/Documents/GitHub/earlynovels.github.io/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/ladmin/Documents/GitHub/earlynovels.github.io/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20181015-16997-15l0kym
