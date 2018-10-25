@@ -27,6 +27,9 @@ description:         >
 # The tags listed as entries in the sidebar
 sidebar_tags:        [blog]
 
+# Ignore vendor directory
+exclude:             [vendor]
+
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/marbledpage.jpg
 color:               '#A85641'
