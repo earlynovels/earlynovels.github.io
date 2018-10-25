@@ -203,6 +203,14 @@ Documentation by Yumi Dineen Shiroma, 3/11/17
 ydshiroma@gmail.com
 
 ---
+# Ignore 'vendor' directory
+
+If you are updating the site for the first time or from a new computer, you may need to install ruby or jekyll, which may create a "vendor" sub-directory within the directory. This is required to view the site locally but not for the site to run, so make sure you list it in the .gitignore or its template files could interfere with the build.
+
+For Github error message: The symbolic link `/vendor/bundle/gems/ffi-1.9.25/ext/ffi_c/libffi-x86_64-darwin17/include/ffitarget.h` targets a file which does not exist within your site's repository.
+
+Updated by Alice Tweedy McGrath, 10/25/18
+atmcgrath@gmail.com
 
 # Hydejack documentation
 
