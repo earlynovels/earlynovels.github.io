@@ -1,16 +1,16 @@
 ---
-title: “Plotting Defoe's Adventure Novels”
+layout: project
+title: Plotting Defoe's Adventure Novels
 author: inachen
 tags: [projects]
 img: defoe-map.png
 description: >
+display-order: 1
 ---
 
-[Project Link](https://sites.google.com/site/endprojectmap/)
----
 
 ## I. Inspiration
-My research project was an emotion map of Daniel Defoe’s adventure novels. The novels used were *Robinson Crusoe (1719), Captain Singleton (1720)*, and *Colonel Jack (1722).* The map was meant to show the emotions associated with locations mentioned (not necessarily visited) in these books . The inspiration for this project was an emotion map created by Christian Nold. His maps represented the emotions, opinions and dialogue of the local population. The map was drawn from a pile of drawings made by the people in the city to portray their perception of the place they live in. I was fascinated by how he managed to combine this static and hyper-accurate medium with something as abstract and ambiguous as human emotions. I wanted to create something similar to Christian Nold’s map: a world map of the 18th-century drawn from the passages of Defoe’s novels.
+[Plotting Defoe's Adventure Novels](https://sites.google.com/site/endprojectmap/) is an emotion map of Daniel Defoe’s adventure novels. The novels used were *Robinson Crusoe (1719), Captain Singleton (1720)*, and *Colonel Jack (1722).* The map was meant to show the emotions associated with locations mentioned (not necessarily visited) in these books . The inspiration for this project was an emotion map created by Christian Nold. His maps represented the emotions, opinions and dialogue of the local population. The map was drawn from a pile of drawings made by the people in the city to portray their perception of the place they live in. I was fascinated by how he managed to combine this static and hyper-accurate medium with something as abstract and ambiguous as human emotions. I wanted to create something similar to Christian Nold’s map: a world map of the 18th-century drawn from the passages of Defoe’s novels.
 
 ## II. Research Questions and Motivations
 I chose this project because I was curious about Britain’s relationship with other countries at that time, primarily Spain and France. I wanted to see if these novels accurately portray British sentiments towards outsiders by comparing fiction with nonfiction (travel literature). I was aware that Britain held a great deal of  anti-French sentiment during the 18th-century and I wanted to see if Defoe’s novels portrayed a similar feeling towards the French. My original research question was centered around what emotions are associated with which location and why, but that question seems far too broad, but I ultimately narrowed my question down how Defoe describes these locations and how his descriptions evoke a negative, positive or neutral emotion. At the end of the 10-week internship, I had created a map, while not up to the level of Nold’s artistry, does include a positive, negative or neutral rating for the locations mentioned in the three Defoe novels I finished analyzing.
@@ -52,3 +52,5 @@ Wall, Cynthia. "Travel Literature and the Early Novel." *The Oxford Handbook of 
 
 ## VII. Credit
 I would like credit Alice McGrath, my supervisor, for providing me with a more streamlined method of extracting passages with the location tag from the text. I also would like to credit Scott Enderle for helping me figure out the steps I needed to take in order to analyze the emotions of the text.
+
+[View the full project here](https://sites.google.com/site/endprojectmap/)

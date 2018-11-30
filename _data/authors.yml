@@ -61,6 +61,13 @@ annalevine:
   avatar:         /public/img/annalevine.jpg
   # bio:            ""
 
+arundhatisingh:
+  name:           Arundhati Singh
+  position:       Student Researcher
+  year:           [2018]
+#  avatar:
+#  bio:
+
 benjaminellentuck:
   name:           Benjamin Ellentuck
   position:       Student Researcher
@@ -165,6 +172,14 @@ ianhoffman:
   year:           [2015]
   avatar:         /public/img/ianhoffman.jpg
   bio:            "Ian Hoffman is a recent graduate from Swarthmore College, majoring in English Literature. At END, he's interested in creating data-visualizations of connections between eighteenth century publishers, drawing on the code he once knew (and forgot, and will now re-learn)."
+
+inachen:
+  name:           Ina Chen
+  position:       Student Researcher
+  year:           [2018]
+#  avatar:         Ina_Chen.jpg
+  bio:            "Ina Chen is a senior and an English Major. She likes cats cats and her favorite foods are sushi, chocolate and avocado."
+
 
 jeremyculver:
   name:           Jeremy Culver
@@ -329,6 +344,13 @@ norabattelle:
   avatar:         /public/img/norabattelle.jpg
   bio:            "Nora Battelle is an Honors English literature major with an Honors minor in French at Swarthmore College. Outside of the classroom, she is a managing editor at Swarthmore's quarterly magazine The Review, a student consultant at the Media Center, and writes a bi-weekly column for the school's print newspaper The Phoenix. At END, she is looking at what titles can (or can't) tell us about full texts, particularly with regard to genre."
 
+owenfox:
+  name:           Owen Fox
+  position:       Student Researcher
+  year:           [2018]
+#  avatar:
+#  bio:
+
 rachelbuurma:
   name:           Rachel Sagner Buurma
   position:       Project Lead
@@ -348,7 +370,7 @@ richardli:
 samherron:
   name:           Samantha Nicole Herron
   position:       Student Researcher
-  year:           [2016]
+  year:           [2016, 2018]
   avatar:         /public/img/samherron.jpg
   bio:            "Sam Herron is a Swarthmore student working towards a special major in Education and Sociology & Anthropology and a minor in Gender & Sexuality Studies. Her primary interests at END are data organization, information accessibility, and the role and history of libraries. She is the music editor for Swarthmore's quarterly magazine, The Review, a columnist for Swarthmore's print newspaper, a tap dancer, and an avid thrift shopper."
 
@@ -367,6 +389,13 @@ scottenderle:
   year:           [corecontrib]
   avatar:         /public/img/scottenderle.jpg
   bio:            "Representing the libraries and working with Price Lab stakeholders, Scott collaborates with Penn faculty, staff, students, librarians, and the international community to facilitate the creation, use and re-use of data in both instructional and research environments. He provides expert advisory services for the creation of digital textual materials, for the management of digital textual projects, and for the form of online publications in order to create effective, innovative, sustainable digital products in support of Penn's mission. Before coming to Penn, Scott was Visiting Assistant Professor of English at Skidmore College, where he taught courses and mentored research on Digital Humanities and 18th century literature. In addition, Scott has more than 10 years of programming experience. Some of his research involves interpreting the networks produced by topic modeling as well as text mining, archival research, and data visualization. Scott holds a B.A. in English Literature from Texas A&M. He holds an M.A. and a Ph.D. in English Literature from Penn. Scott was the 2010-11 recipient of the Brizdle-Schoenberg Fellowship in the History of Material Texts at Penn Libraries."
+
+thyopierrelouis:
+  name:           Thyo Pierre-Louis
+  position:       Student Researcher
+  year:           [2018]
+#  avatar:
+#  bio:
 
 treasuretinsley:
   name:           Treasure Tinsley
