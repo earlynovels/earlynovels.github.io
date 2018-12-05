@@ -6,7 +6,7 @@ tags: [projects]
 img: preface-header.jpg
 description: >
 ---
-*Note: as of the summer of 2017, this project can also be viewed as an [Omeka exhibit](http://prefaceproject.omeka.net/).*
+*Note: as of the summer of 2017, this project can also be viewed as an [Omeka exhibit](http://pennds.org/prefaceproject/).*
 
 [Abstract]   The Preface Project is a multi-modal digital archive exploring the relationships among truth claims, direct address of the reader, and authorial voice in the prefaces of 1760s novels. The archive conceives of prefaces as products of and catalysts for relationality, while weaving together new layers of enmeshment, through curated cataloging and audio, visual, and textual digital reproductions.  Through the proliferation and linking of metadata, through the multimedia presentation of the prefaces, and through the open-access publication of the archived materials, the Preface Project generates new networks, entangling them with the conversations and relations of 1760s prefaces. While currently housed in a publicly-accessible Google Drive Folder, by the spring of 2016, the materials will transform into an Omeka exhibition.
 
