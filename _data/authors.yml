@@ -391,7 +391,7 @@ yumidineenshiroma:
   bio:            "Yumi Dineen Shiroma graduated from Swarthmore College in 2016 with an honors major in English literature and a minor in interpretation theory. Her work explores the intersections of material text study, computational methods, and Marxist metanarratives of the novel. In her non-academic life, she is the human companion to Peanut Butter 'Dorothea Catsaubon' Dineen Shiroma, who used to be feral."
   twitter:        ydshiroma
   
-  cassidyholahan:
+cassidyholahan:
   name:           Cassidy Holahan
   position:       Project Manager
   year:           [2019]
@@ -399,3 +399,20 @@ yumidineenshiroma:
   avatar:         /public/img/cassidyh.jpg
   bio:            "Cassidy Holahan is a PhD student in the English Department at the University of Pennsylvania. She studies British literature of the long eighteenth-century, with a focus on material texts, digital humanities, and the history of the novel."
   twitter:        cassidy_holahan
+  
+dorothypierrelouis:
+  name:           Dorothy Pierre-Louis
+  position:       Student Researcher
+  year:           [2019]
+  avatar:         /public/img/thyod.jpg
+  bio:            "Dorothy “Thyo” Pierre-Louis is a senior English major at the University of Pennsylvania. Thyo helped with project planning and research. In addition to this summer project group project, Thyo worked on a personal END-related project concerning paratext in the Summer of 2018."
+  
+inachen:
+  name:           Ina Chen
+  position:       Student Researcher
+  year:           [2019]
+  site:           https://chenina.netlify.com/
+  avatar:         /public/img/inac.jpg
+  bio:            "Ina Chen is an English Department Graduate of the University of Pennsylvania. Ina helped with the project planning and research. She is also responsible for building and maintaining the website."
+
+Pierre-Louis
