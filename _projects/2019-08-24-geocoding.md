@@ -7,7 +7,7 @@ img: dublinprinting-crop.jpg
 description: >
 ---
 
-_Note: This is a summary of the trajectory of my summer project. To jump straight to my results, please visit [https://thedublinprintproject.wordpress.com](https://thedublinprintproject.wordpress.com)._
+_Note: TESTING!! This is a summary of the trajectory of my summer project. To jump straight to my results, please visit [https://thedublinprintproject.wordpress.com](https://thedublinprintproject.wordpress.com)._
 
 It is not uncommon to find a title published both by London and Dublin printers in the eighteenth century. Copyright laws in the 1700s did not restrict the republishing of books originally printed in London in Ireland, and it was not uncommon to find the more popular titles in London being reprinted and sold in Ireland. The "Golden Age" of printing in Ireland in the eighteenth century, had a particularly large impact on the print industry in Dublin. Books were often printed faster and cheaper in Ireland, having a much larger turnover than the London print industry. Some historians believe that there were pirated versions of London books in Dublin, but because of the complexity of the copyright laws in the eighteenth century, it is very difficult to say what is and what is not a pirated copy of a book.
 
