@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "The Dublin Print Project"
-author: kirarasato
+title: "Geocoding Early Novels"
+author: cholahan
 tags: [projects]
-img: dublinprinting-crop.jpg
+img: geocoding_map.jpg
 description: >
 ---
 
