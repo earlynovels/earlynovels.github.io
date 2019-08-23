@@ -3,7 +3,7 @@ layout: project
 title: "Plotting Defoe's Adventure Novels"
 author: inachen
 tags: [projects]
-img: defoe_map.png
+img: defoe-map.png
 description: >
 display-order: 1
 ---
