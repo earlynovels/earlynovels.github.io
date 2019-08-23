@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Geocoding Early Novels"
-author: cassidyholahan, inac, thyod
+author: cassidyholahan, inachen, dorothypierrelouis
 tags: [projects]
 img: geocoding_map.jpg
 description: >
