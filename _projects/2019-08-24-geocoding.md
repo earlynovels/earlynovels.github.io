@@ -1,10 +1,10 @@
 ---
 layout: project
 title: "Geocoding Early Novels"
-author: dorothypierrelouis
+authors: ['inachen', 'cassidyholahan', 'dorothypierrelouis']
 tags: [projects]
 img: geocoding_map.jpg
-description: >
+description:
 display-order: 1
 ---
 
@@ -14,4 +14,7 @@ Geocoding Early Novels is a collaborative project completed in the summer of 201
 
 The project can be found [here](https://cholahan.github.io/end19/).
 
-{% include author.html = cassidyholahan %}
+{% for a in page.authors %}
+{% assign author = site.data.authors[a] %}
+{% include author.html author=author %}
+{% endfor %}
