@@ -284,8 +284,8 @@ michellemoyes:
   name:           Michelle Moyes
   position:       Student Researcher
   year:           [2013]
-  avatar:         /public/img/michellemoyes.jpg
-  bio:            "Michelle Moyes studies Cultural Anthropology at the University of Pennsylvania. Originally from Mongolia, she has traveled and lived all over the world and spends much of her free time reading fiction and observing the world."
+#  avatar:         /public/img/michellemoyes.jpg
+  bio:            "Michelle Moyes studies Cultural Anthropology at the University of Pennsylvania. She has worked at Van Pelt Library throughout her undergraduate studies as a work-study student."
 
 mitchfraas:
   name:           Mitch Fraas
